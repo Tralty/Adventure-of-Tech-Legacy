@@ -1,31 +1,20 @@
-![BH ATL header](https://www.bisecthosting.com/images/CF/Adventure_of_Tech_Forge/BH_AT_Header.webp)
-![BH ATL description](https://www.bisecthosting.com/images/CF/Adventure_of_Tech_Forge/BH_AT_Desc.webp)
-This multi-version adventure has started mainly to see how overpowered you can become! Explore impressive landscapes and beautiful mountains! With mods like Nature's Compass to help you find biomes that you may want to live in! Use mods like Mystical Agriculture, Industrial Foregoing and more to generate endless resources and store them using Refined Storage or Applied Energistics 2 along with Functional Storage! Fight in dungeons or grind from world spawn to start being overpowered!
+![](https://www.bisecthosting.com/images/CF/Adventure_of_Tech_Legacy/BH_Adventure_of_Tech_Legacy_header.webp)
 
-**_This pack will no longer be updated! Check out the packs below to play the updated versions!_**
+  
+![](https://www.bisecthosting.com/images/CF/Adventure_of_Tech_Legacy/BH_Adventure_of_Tech_Legacy_description.webp)
+<span style="font-family:verdana, geneva, sans-serif;font-size:14px">This multi-version adventure has started mainly to see how overpowered you can become! Explore impressive landscapes and beautiful mountains! With mods like Nature's Compass to help you find biomes that you may want to live in! Use mods like Mystical Agriculture, Industrial Foregoing and more to generate endless resources and store them using Refined Storage or Applied Energistics 2 along with Functional Storage! Fight in dungeons or grind from world spawn to start being overpowered!</span>
 
-Adventure of Tech I: Remastered - Planned
+<p style="text-align:center"><span style="font-size:18px;font-family:impact, sans-serif"><span style="text-decoration:underline">Check out the packs below to play the updated versions!</span></span></p><p style="text-align:left"><span style="font-size:14px;font-family:verdana, geneva, sans-serif">Adventure of Tech I Remastered -&nbsp;<a href="https://www.curseforge.com/minecraft/modpacks/adventure-of-tech-i-remastered" target="_blank" rel="nofollow">https://www.curseforge.com/minecraft/modpacks/adventure-of-tech-i-remastered</a></span></p><p style="text-align:left"><span style="font-size:14px;font-family:verdana, geneva, sans-serif">Adventure of Tech II -&nbsp;<a href="https://www.curseforge.com/minecraft/modpacks/adventure-of-tech-2" rel="nofollow">https://www.curseforge.com/minecraft/modpacks/adventure-of-tech-2</a></span></p><p style="text-align:left"><span style="font-size:14px;font-family:verdana, geneva, sans-serif">Adventure of Tech III -&nbsp;<a href="https://www.curseforge.com/minecraft/modpacks/adventure-of-tech-3" rel="nofollow">https://www.curseforge.com/minecraft/modpacks/adventure-of-tech-3</a></span></p><p style="text-align:left"><span style="font-size:14px;font-family:verdana, geneva, sans-serif">Adventure of Tech IV -&nbsp;<a href="https://www.curseforge.com/minecraft/modpacks/adventure-of-tech-4" rel="nofollow">https://www.curseforge.com/minecraft/modpacks/adventure-of-tech-4</a></span></p>
 
-Adventure of Tech II - https://www.curseforge.com/minecraft/modpacks/adventure-of-tech-2
-
-Adventure of Tech III - https://www.curseforge.com/minecraft/modpacks/adventure-of-tech-3
-
-Adventure of Tech IV - https://www.curseforge.com/minecraft/modpacks/adventure-of-tech-4
-
-![BH ATL special thanks](https://www.bisecthosting.com/images/CF/Adventure_of_Tech_Forge/BH_AT_Thanks.webp)
-Big thanks to [EminGT](https://www.curseforge.com/members/emingt/projects) for letting us include Complementary [Unbound](https://www.curseforge.com/minecraft/shaders/complementary-unbound) & [Reimagined](https://www.curseforge.com/minecraft/shaders/complementary-reimagined)! Big thanks to BisectHosting for partnering and creating the art!
-
-![BH ATL socials](https://www.bisecthosting.com/images/CF/Adventure_of_Tech_Forge/BH_AT_Socials.webp)
-Discord: https://discord.gg/D5rGTSktEg
-
-YouTube: https://www.youtube.com/@tralty
-
-Twitch: https://www.twitch.tv/tralty
-
-Twitter/X: https://twitter.com/TheRealTralty
-
-Instagram: https://www.instagram.com/therealtralty/
+  
+![](https://www.bisecthosting.com/images/CF/Adventure_of_Tech_Legacy/BH_Adventure_of_Tech_Legacy_thanks.webp)  
+<span style="font-family:verdana, geneva, sans-serif;font-size:14px">Big thanks to <a href="https://legacy.curseforge.com/members/EminGTR/projects" rel="nofollow">EminGTR</a> for letting us use both <a href="https://www.curseforge.com/minecraft/customization/complementary-shaders" rel="nofollow">Complementary Shaders</a> and <a href="https://www.curseforge.com/minecraft/customization/complementary-reimagined" rel="nofollow">Complementary Reimagined</a>! Big thanks to <strong>BisectHosting</strong> for partnering and creating the art!</span>  
+  
+[<img src="https://www.bisecthosting.com/images/CF/Adventure_of_Tech_Legacy/BH_Adventure_of_Tech_Legacy_discord.webp">](https://discord.gg/wxkZuEbGrM)
+[<img src="https://www.bisecthosting.com/images/CF/Adventure_of_Tech_Legacy/BH_Adventure_of_Tech_Legacy_youtube.webp">](https://www.youtube.com/@tralty)
+[<img src="https://www.bisecthosting.com/images/CF/Adventure_of_Tech_Legacy/BH_Adventure_of_Tech_Legacy_kofi.webp">](https://ko-fi.com/tralty)
 
 
-[<img src="https://www.bisecthosting.com/images/CF/Adventure_of_Tech_Forge/BH_AT_Promo.webp">](https://bisecthosting.com/gio)
-Enjoy Adventure of Tech: Legacy to the fullest by hosting your game server with BisectHosting. Not only do they offer servers in 20 different locations worldwide, but their decade of expertise guarantees an exceptional gaming experience. Their automated modpack installer and updater makes setting up and maintaining your server a breeze. Plus, their 24/7 support is always there to help you with any inquiries. Use promo code 'gio' and get 25% off your first month as a new customer!
+<span style="font-size:14px"><a href="https://bisecthosting.com/gio" target="_blank" rel="nofollow"><span style="font-family:verdana, geneva, sans-serif"><img src="https://www.bisecthosting.com/images/CF/Adventure_of_Tech_Legacy/BH_Adventure_of_Tech_Legacy_promo2.webp" alt="" width="1124" height="201"></span></a></span>
+
+<span style="font-size:14px"><a href="https://bisecthosting.com/gio" target="_blank" rel="nofollow"><span style="font-family:verdana, geneva, sans-serif">Enjoy <strong>Adventure of Tech: Legacy&nbsp;</strong>to the fullest by hosting your game server with <strong>BisectHosting</strong>. Not only do they offer servers in <strong>20 different locations worldwide</strong>, but their decade of expertise guarantees an exceptional gaming experience. Their automated modpack installer and updater makes setting up and maintaining your server a breeze. Plus, their 24/7 support is always there to help you with any inquiries. Use promo code <strong>'</strong><strong>gio'</strong> and <strong>get 25% off your first month as a new customer</strong>!</span></a></span>
