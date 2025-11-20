@@ -13,8 +13,3 @@
 [<img src="https://www.bisecthosting.com/images/CF/Adventure_of_Tech_Legacy/BH_Adventure_of_Tech_Legacy_discord.webp">](https://discord.gg/wxkZuEbGrM)
 [<img src="https://www.bisecthosting.com/images/CF/Adventure_of_Tech_Legacy/BH_Adventure_of_Tech_Legacy_youtube.webp">](https://www.youtube.com/@tralty)
 [<img src="https://www.bisecthosting.com/images/CF/Adventure_of_Tech_Legacy/BH_Adventure_of_Tech_Legacy_kofi.webp">](https://ko-fi.com/tralty)
-
-
-<span style="font-size:14px"><a href="https://bisecthosting.com/gio" target="_blank" rel="nofollow"><span style="font-family:verdana, geneva, sans-serif"><img src="https://www.bisecthosting.com/images/CF/Adventure_of_Tech_Legacy/BH_Adventure_of_Tech_Legacy_promo2.webp" alt="" width="1124" height="201"></span></a></span>
-
-<span style="font-size:14px"><a href="https://bisecthosting.com/gio" target="_blank" rel="nofollow"><span style="font-family:verdana, geneva, sans-serif">Enjoy <strong>Adventure of Tech: Legacy&nbsp;</strong>to the fullest by hosting your game server with <strong>BisectHosting</strong>. Not only do they offer servers in <strong>20 different locations worldwide</strong>, but their decade of expertise guarantees an exceptional gaming experience. Their automated modpack installer and updater makes setting up and maintaining your server a breeze. Plus, their 24/7 support is always there to help you with any inquiries. Use promo code <strong>'</strong><strong>gio'</strong> and <strong>get 25% off your first month as a new customer</strong>!</span></a></span>
